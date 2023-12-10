@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there!
+
+Artist for Racing Buddy
 
 <!--
 **ShotgunJ0ker/ShotgunJ0ker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
