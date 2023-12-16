@@ -1,10 +1,16 @@
 ![KEL](kel.png)
 
-# Hey there, I'm Joker!
+# *Hey there, I'm Joker!*
 
-### Nothing special. 
+### I'm not too special, just some brilliant person who loves programming!
+---
 
-Just a game developer who loves the game OMORI and loves RPG's!
+Just a game developer who loves the OMORI, Metroidvania's, RPG's, Retro Stuff, Programming, etc.
+
+
+# *My Collaborations & Contributions!*
+
+- ***Racing Buddy - Artist & Contributor***
 
 <!--
 **ShotgunJ0ker/ShotgunJ0ker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
