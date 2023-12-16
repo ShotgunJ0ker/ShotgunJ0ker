@@ -2,7 +2,7 @@
 
 # *Hey there, I'm Joker!*
 
-### I'm not too special, just some brilliant person who loves programming!
+### Just some brilliant person who loves programming and lots of RPG's!
 ---
 
 Just a game developer who loves the OMORI, Metroidvania's, RPG's, Retro Stuff, Programming, etc.
