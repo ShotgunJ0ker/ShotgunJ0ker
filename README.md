@@ -1,4 +1,4 @@
-![KEL](KEL-hehe.png)
+![KEL](kel.png)
 
 # Hey there, I'm Joker!
 
