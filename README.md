@@ -7,7 +7,7 @@
 
 Just a game developer who loves the OMORI, Metroidvania's, RPG's, Retro Stuff, Programming, etc.
 
-***Fun Fact: There is just some .gif in this repository of an egg referencing the one in Ready Player One!***
+I've been fascinated for game development for a long time, however have never found true motivations for certain projects, so I'm kind of a on-and-off programmer!
 
 # *My Collaborations & Contributions!*
 
