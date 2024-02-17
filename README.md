@@ -9,7 +9,6 @@ Just a game developer who loves the OMORI, Metroidvania's, RPG's, Retro Stuff, P
 
 I've been fascinated for game development for a long time, however have never found true motivations for certain projects, so I'm kind of a on-and-off programmer!
 
-## Some cool stas designed by
 
 ![ShotgunJ0ker's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShotgunJ0ker&show_icons=true&theme=tokyonight&count_private=true)
 
